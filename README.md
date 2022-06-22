@@ -1,6 +1,6 @@
 ### Hi there 👋
 testtesttest
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)
+[![codewars](https://www.codewars.com/users/leonid25071993/badges/large)](https://www.codewars.com/users/leonid25071993)
 <!--
 **AlexCole999/AlexCole999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
