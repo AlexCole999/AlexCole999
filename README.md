@@ -4,6 +4,14 @@
 ![](https://komarev.com/ghpvc/?username=AlexCole999)
 <br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexCole999&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexCole999&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexCole999&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexCole999&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlexCole999&theme=solarized_dark)
 <!--
 **AlexCole999/AlexCole999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
