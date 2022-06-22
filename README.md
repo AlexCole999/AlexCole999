@@ -13,4 +13,4 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexCole999&theme=solarized_dark)
 
-<div style='color:red'>red</div>
+<div style='color:red;'>red</div>
