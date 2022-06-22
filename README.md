@@ -1,7 +1,7 @@
 <div align="center">
   
   <h3>
-    Hi there, I'm Leonid <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+    Hi there, I'm Leo <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
   </h3>
   
 [![codewars](https://www.codewars.com/users/leonid25071993/badges/large)](https://www.codewars.com/users/leonid25071993)
