@@ -1,6 +1,6 @@
 
 [![codewars](https://www.codewars.com/users/leonid25071993/badges/small)](https://www.codewars.com/users/leonid25071993)
-
+![](https://komarev.com/ghpvc/?username=AlexCole999)
 <!--
 **AlexCole999/AlexCole999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
