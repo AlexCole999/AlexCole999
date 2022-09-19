@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  Contact Phone: +7-950-038-31-73
+  Contact Phone: <i>+7-950-038-31-73</i>
   
   <b>CODEWARS</b>
   
