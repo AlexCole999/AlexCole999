@@ -1,7 +1,9 @@
 
 <div align="center">
   
-  Contact Phone: <i><b>+7-950-038-31-73</b></i>
+  Contact Phones: <i><b>+7-950-038-31-73 ru</b></i>
+  <i><b>+99-888-014-11-51 uz</b></i>
+  <i><b>+99-888-018-98-87 uz</b></i>
   
   <b>CODEWARS</b>
   
